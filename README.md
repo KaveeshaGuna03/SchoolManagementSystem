@@ -1,2 +1,2 @@
-# SchoolManagementSystem
- KADSE241F-004
+UserName - kavee
+Password - host123
